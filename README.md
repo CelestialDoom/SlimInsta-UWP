@@ -5,7 +5,7 @@ SlimInsta UWP is a UWP app for Windows 10 Mobile to allow the user to access the
 
 Small memory footprint, open source, and forever free. Not recomended for heavy users of Instagram.
 ***
-This app has the Facebook TOP BAR locked permanently, and I've removed ads.
+This app has the Instagram TOP BAR locked permanently, and I've removed ads.
 If anyone wants the ads added back in, I'll look into it.
 ***
 This app is **NOT** associated in **ANY** way with Facebook, Inc.
